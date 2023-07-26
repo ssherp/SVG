@@ -1,3 +1,5 @@
+node_modules/
+package-lock.jason
 node_modules 
 package-lock.jason
 .DS_Store
