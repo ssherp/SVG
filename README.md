@@ -2,6 +2,7 @@
 This is a simple Node.js application developed as part of my coding bootcamp project. With this Logo maker, you can create custom SVG logos using different shapes like Triangles, Squares, and Circles. You have the freedom to choose your logo's text, text color, shape color, and background color.
 
 [visit the tutorial video](https://drive.google.com/file/d/1hA6A869OfGlSJAMNAcUuwMnuTo-EpAxW/view)
+
 ## Getting Started
 * Prerequisites
 To run this logo maker, you'll need to have Node.js and npm (Node Package Manager) installed on your machine. You can download and install them from the official website: https://nodejs.org/
@@ -39,5 +40,5 @@ Overall, SVG project challenged me to apply my programming skills, think critica
 
 ## Questions
 
-* GitHub: https://github.com/ssherp/SVG-Logo-Maker
+* GitHub: https://github.com/ssherp/Note-Taker
 * Email: ssherpa89@gmail.com
